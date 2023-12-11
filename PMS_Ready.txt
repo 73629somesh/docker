@@ -75,7 +75,7 @@ Academic Project Information:
 		Project Title: Academic Aisle 
 
 		Duration(Month):2 months
-		Project Description:
+		Project Description:Academic Aisle, an online resale marketplace for educational products and services. The website will be accessible through a web browser. The website allows users to create accounts, post advertisements for products and services, communicate with other users through messaging, search for items based on various criteria and can also purchase new  products as well which they have to takeaway from nearest stores
 
 
 Other Information: 
